@@ -7,8 +7,11 @@ The world we live in is more connected that ever, thanks to the internet and soc
 The target users of this A.I. based system are first responders such as paramedics, police and firefighters as well as news agencies and disaster relief organizations. These stakeholders are likely to find value in a project like this. 
 
 ## Proposed solution: 
-Use A.I. and machine learning algorithms that surveil tweets and alert stakeholders whether there is an emergency or natural disaster situation. Check out our presentation PDF and associated video to learn more about the details of the implementation and high level overview of the structure architecture.
+Use A.I. and machine learning algorithms that surveil tweets and alert stakeholders whether there is an emergency or natural disaster situation. Check out our presentation PDF in this repo or Google presentation* and associated video to learn more about the details of the implementation and high level overview of the structure architecture.
 
 ## Reference:
 This A.I. system is based on a kaggle competition called, "Real or Not? NLP with Disaster Tweets"
 (https://www.kaggle.com/c/nlp-getting-started). 
+
+*Google presentation 
+https://docs.google.com/presentation/d/1YJaoF6WqfYPk6ELB8EWfyXi8ltviLl1PUqf-Qi4UrkU/edit?usp=sharing
