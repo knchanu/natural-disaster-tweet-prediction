@@ -17,6 +17,10 @@ https://docs.google.com/presentation/d/1YJaoF6WqfYPk6ELB8EWfyXi8ltviLl1PUqf-Qi4U
 
 https://pitt.zoom.us/rec/share/opU2cpzR60hJftbjsEDyZ-0-DsfIT6a80SJIrKENmEr0NXTGgbDh8I7DDxOfHxFj
 
+* YouTube video
+
+https://www.youtube.com/watch?v=TOKwj5pCW_k
+
 
 ## Reference:
 This A.I. system is based on a kaggle competition called, "Real or Not? NLP with Disaster Tweets"
