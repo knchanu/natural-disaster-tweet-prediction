@@ -1,7 +1,7 @@
 # Natural Disaster Twitter Prediction 
 
 ## Problem statement: 
-The world we live in is more connected that ever, thanks to the internet and social media platforms. Twitter is one such platform where people share their thoughts whether it is about everyday random musings or about something personal and serious. Given the enormity of tweets at any given point in time, it is impossible is manually look at each and every tweet to decide if its about a natural disaster or not. 
+The world we live in is more connected than ever, thanks to the internet and social media platforms. Twitter is one such platform where people share their thoughts whether it is about everyday random musings or about something personal and serious. Given the enormity of tweets at any given point in time, it is impossible is manually look at each and every tweet to decide if its about a natural disaster or not. 
 
 ## Value for stakeholders:
 The target users of this A.I. based system are first responders such as paramedics, police and firefighters as well as news agencies and disaster relief organizations. These stakeholders are likely to find value in a project like this. 
